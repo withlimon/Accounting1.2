@@ -1,3 +1,5 @@
+> If you notice any typos or mistakes, feel free to pull request (with little explanation in the commit) 
+
 # Introduction to Accounting
  * Origin: Count \rightarrow Account
  * 1494, Luca Pacioli: Known as the Father of Accounting. He was the first writer on modern accounting.
