@@ -1,4 +1,5 @@
-> If you notice any typos or mistakes, feel free to pull request (with little explanation in the commit) 
+> If you notice any typos or mistakes, feel free to pull request (with little explanation in the commit)
+> ![Account ing.pdf]
 
 # Introduction to Accounting
  * Origin: Count \rightarrow Account
