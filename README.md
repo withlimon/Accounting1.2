@@ -1,5 +1,5 @@
 > If you notice any typos or mistakes, feel free to pull request (with little explanation in the commit)
-> !(PDF Edition)[https://withlimon.github.io/Accounting1.2/Accounting.pdf]
+> [PDF Edition](https://withlimon.github.io/Accounting1.2/Accounting.pdf)
 
 # Introduction to Accounting
  * Origin: Count \rightarrow Account
